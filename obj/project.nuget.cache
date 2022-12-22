@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "L8ITr2EbN/YIlDqUSddhpUOiJXX6hs1KjaJS+Bsb4hRwikuUyVmTbeq1PAcvQI1mVoC0lPUdFWoxClkzFkUXVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\photosBot\\photosBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.116\\stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
